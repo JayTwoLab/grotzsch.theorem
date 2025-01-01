@@ -30,3 +30,8 @@ Grotzsch's Theorem guarantees that if a planar graph does not have any triangles
 
 ### Comparison to the Four-Color Theorem:
 - While the Four-Color Theorem applies to all planar graphs, Grotzsch's Theorem reduces the maximum number of required colors to 3 for planar graphs without triangles. This demonstrates that removing small cycles (like triangles) simplifies the coloring problem.
+
+### Code 
+
+- [grotzsch.py](grotzsch.py)
+
